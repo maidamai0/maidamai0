@@ -9,11 +9,11 @@
 
 ## Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maidamai0&layout=compact&card_width=500&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maidamai0&layout=compact&card_width=500&hide_border=true&hide=html)
 
 ## Overview of my work
 
-![Github Status](https://github-readme-stats.vercel.app/api?username=maidamai0&show_icons=true&hide_border=true)
+![Github Status](https://github-readme-stats.vercel.app/api?username=maidamai0&show_icons=true&hide_border=true&hide_title=true)
 
 <!--
 **maidamai0/maidamai0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
