@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on computer graphics
 - 🌱 I’m currently learning OpenGL and 3D graphics
 - 🥅 2020 Goals: complete [OpenGl super bible book](http://www.openglsuperbible.com/)
-- ⚡ Fun fact: I love hiking, riding and climbing mountanis.
+- ⚡ Fun fact: I love hiking, riding and climbing mountains.
 
 ## Languages
 
@@ -14,14 +14,6 @@
 ## Overview of my work
 
 ![Github Status](https://github-readme-stats.vercel.app/api?username=maidamai0&show_icons=true)
-
-## Current working on repositories
-
-[![opengl_super_bible Card](https://github-readme-stats.vercel.app/api/pin/?username=maidamai0&repo=opengl_super_bible)](https://github.com/maidamai0/opengl_super_bible)
-
-[![leetcode Card](https://github-readme-stats.vercel.app/api/pin/?username=maidamai0&repo=leetcode)](https://github.com/maidamai0/leetcode)
-
-[![maidamai0.github.io Card](https://github-readme-stats.vercel.app/api/pin/?username=maidamai0&repo=maidamai0.github.io)](https://github.com/maidamai0/maidamai0.github.io)
 
 <!--
 **maidamai0/maidamai0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
