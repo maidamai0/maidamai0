@@ -1,6 +1,6 @@
-# Hi there, I'm tonghao 👋
+# Hi there,👋
 
-## I'm a software developer focus on cpp and computer graphics
+## I'm tonghao, a software developer focus on cpp and computer graphics
 
 - 🔭 I’m currently working on computer graphics
 - 🌱 I’m currently learning OpenGL and 3D graphics
