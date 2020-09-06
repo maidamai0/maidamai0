@@ -1,4 +1,4 @@
-# Hi there,👋
+# Hi there👋
 
 ## I'm tonghao, a software developer focus on cpp and computer graphics
 
@@ -6,6 +6,8 @@
 - 🌱 I’m currently learning OpenGL and 3D graphics
 - 🥅 2020 Goals: complete [OpenGl super bible book](http://www.openglsuperbible.com/)
 - ⚡ Fun fact: I love hiking, riding and climbing mountains.
+
+see my [resume](https://github.com/maidamai0/maidamai0.github.io/blob/master/resume.md) for details.
 
 ## Languages
 
