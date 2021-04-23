@@ -1,2 +1,5 @@
-get_filename_component(APP ${CMAKE_CURRENT_SOURCE_DIR} NAME)
-add_executable(${APP} main.cpp)
+file(GLOB srcs *.cpp)
+foreach(src ${srcs})
+  get_filename_component(app ${src} NAME_WLE)
+  add_executable(${app} ${src})
+endforeach()
