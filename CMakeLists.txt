@@ -10,7 +10,12 @@ set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_CXX_STANDARD_REQUIRED TRUE)
 set(CMAKE_CXX_EXTENSIONS OFF)
 
-if(WIN32)
+if (CMAKE_CXX_COMPILER_ID STREQUAL "Clang")
+  # using Clang
+elseif (CMAKE_CXX_COMPILER_ID STREQUAL "GNU")
+  # using GCC
+  add_compile_options(-fcoroutines)
+elseif (CMAKE_CXX_COMPILER_ID STREQUAL "MSVC")
   # add_compile_options(/fsanitize=address)
   set(CMAKE_MSVC_RUNTIME_LIBRARY "MultiThreaded$<$<CONFIG:Debug>:Debug>")
   add_compile_options(/Zc:__cplusplus) # see https://docs.microsoft.com/en-us/cpp/build/reference/zc-cplusplus?view=msvc-160 for detail
