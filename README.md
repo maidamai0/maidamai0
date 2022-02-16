@@ -10,6 +10,9 @@
 - ⚡ Fun fact: I love hiking, riding and climbing mountains.
 
 see my [resume](https://github.com/maidamai0/maidamai0.github.io/blob/master/resume.md) for details.
+
+I'm a [Liberalism](https://8values.github.io/results.html?e=58.3&d=77.2&g=58.6&s=52.6) according to [8values](https://8values.github.io/index.html)
+
 ## Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maidamai0&layout=compact&card_width=500&hide_border=true&hide=html)
