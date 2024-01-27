@@ -12,6 +12,7 @@
 see my [resume](https://github.com/maidamai0/maidamai0.github.io/blob/master/resume.md) for details.
 
 I'm a [Liberalism](https://8values.github.io/results.html?e=58.3&d=77.2&g=58.6&s=52.6) according to [8values](https://8values.github.io/index.html)
+I'm a [Mediator(INFP-A)](https://www.16personalities.com/infp-personality) according to [16personalities](https://www.16personalities.com/)
 
 ## Languages
 
